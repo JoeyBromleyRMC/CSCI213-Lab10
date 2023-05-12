@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class Car extends Vehicle {
     
     private int doors;
@@ -49,3 +50,6 @@ public class Car extends Vehicle {
         return carCopy;
     }
 }
+=======
+
+>>>>>>> faea833ae194f53e6d2c5e0ee41a387281695d6e
